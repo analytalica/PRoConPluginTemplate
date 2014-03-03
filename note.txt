@@ -1,2 +1,0 @@
-For some reason, template.cs will not compile
-in PRoCon. Sample.cs will however.
